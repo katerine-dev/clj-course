@@ -1,6 +1,6 @@
-(ns alura-clj.core-test
+(ns clj-course.core-test
   (:require [clojure.test :refer :all]
-            [alura-clj.core :refer :all]))
+            [clj-course.core :refer :all]))
 
 (deftest a-test
   (testing "FIXME, I fail."

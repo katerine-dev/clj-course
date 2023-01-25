@@ -1,5 +1,11 @@
-(ns alura-clj.core
-  (:require [clojure.string :as str]))
+(ns clj-course.core
+  (:gen-class))
+
+(defn -main
+  "I don't do a whole lot ... yet."
+  [& args]
+  (println "Hello, World!"))
+
 
 ; Define simbolo
 (println "Bem vindo")

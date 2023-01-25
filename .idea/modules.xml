@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/alura-clj.iml" filepath="$PROJECT_DIR$/alura-clj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clj-course.iml" filepath="$PROJECT_DIR$/clj-course.iml" />
     </modules>
   </component>
 </project>
