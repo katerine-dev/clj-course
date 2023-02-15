@@ -1,4 +1,4 @@
-(ns clj-course.core
+(ns clj-course.core ; namespace
   (:gen-class)
   (:require [clojure.string :as str]))
 
@@ -8,7 +8,7 @@
   (println "Hello, World!"))
 
 (comment
-  ; Define simbolo
+  ; Define símbolo
   (println "Bem vindo")
   (def total-de-produtos 15)
 
@@ -71,6 +71,9 @@
 
 (comment
   ; Cmd + Shift + P => executa código no repl
+  ; Cmd + Shift + L => executa o código inteiro
+  ; (1 2 3 4) Cmd + Shift + K => engole para o parênteses
+  ; (1 2 3 4) Cmd + Shift + J => expulsa para o parênteses
   )
 
 ; condições
@@ -94,3 +97,4 @@
 ; nil(Nulo) é considerado false dentro do if
 
 (valor-com-desconto 100)
+
